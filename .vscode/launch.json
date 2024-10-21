@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Genérica2",
+      "request": "launch",
+      "mainClass": "Genérica2",
+      "projectName": "Tarea Darwin_f9c3125f"
+    },
+    {
+      "type": "java",
+      "name": "Genérica1",
+      "request": "launch",
+      "mainClass": "Genérica1",
+      "projectName": "Tarea Darwin_f9c3125f"
+    },
+    {
+      "type": "java",
       "name": "POA2",
       "request": "launch",
       "mainClass": "POA2",
